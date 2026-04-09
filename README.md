@@ -44,15 +44,15 @@ User Query → Streamlit UI → Amazon Bedrock (Retrieve)
 
 ---
 
-## 📸 Demo (Add after deployment)
+## 📸 Demo 
 
 ### UI
 
-*Add screenshot here*
+*![alt text](<Screenshot 2026-04-09 211422.png>)*
 
 ### Answer with Citations
 
-*Add screenshot here*
+*![alt text](<Screenshot 2026-04-09 211226.png>)*
 
 ---
 
