@@ -1,6 +1,6 @@
-# 🧠 Enterprise Knowledge Base Q&A System (Hybrid RAG)
+#  Enterprise Knowledge Base Q&A System (Hybrid RAG)
 
-## 🚀 Overview
+##  Overview
 
 This project is an **Enterprise-grade Knowledge Base Question Answering System** built using a **Hybrid Retrieval-Augmented Generation (RAG)** architecture.
 
@@ -8,7 +8,7 @@ It allows users to query internal company documents and receive **accurate, cont
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 User Query → Streamlit UI → Amazon Bedrock (Retrieve)
@@ -19,18 +19,18 @@ User Query → Streamlit UI → Amazon Bedrock (Retrieve)
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-* 🔍 Context-aware question answering
-* 📚 Citation-based responses (source transparency)
-* 🚫 Reduced hallucination using grounded retrieval
-* ⚡ Hybrid RAG (Bedrock + external LLM)
-* 🖥️ Clean and interactive Streamlit UI
-* 🔐 Secure IAM Role-based authentication (no hardcoded credentials)
+*  Context-aware question answering
+*  Citation-based responses (source transparency)
+*  Reduced hallucination using grounded retrieval
+*  Hybrid RAG (Bedrock + external LLM)
+*  Clean and interactive Streamlit UI
+*  Secure IAM Role-based authentication (no hardcoded credentials)
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * **Frontend:** Streamlit
 * **Backend:** Python
@@ -44,7 +44,7 @@ User Query → Streamlit UI → Amazon Bedrock (Retrieve)
 
 ---
 
-## 📸 Demo 
+##  Demo 
 
 ### UI
 
@@ -72,7 +72,7 @@ streamlit run app.py
 
 ---
 
-## ☁️ Deployment (AWS EC2)
+##  Deployment (AWS EC2)
 
 * Deployed on AWS EC2 instance
 * Configured inbound rule for port **8501**
@@ -85,7 +85,7 @@ streamlit run app.py
 
 ---
 
-## 🔐 Security Best Practices
+##  Security Best Practices
 
 * ❌ No hardcoded credentials
 * ❌ `.env` not pushed to repository
@@ -106,7 +106,7 @@ enterprise-rag-knowledge-base/
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * 🐳 Docker containerization
 * 🔁 CI/CD pipeline (GitHub Actions)
@@ -116,15 +116,8 @@ enterprise-rag-knowledge-base/
 
 ---
 
-## 💼 Resume Highlights
 
-* Built and deployed a **Hybrid RAG system** using Amazon Bedrock and OpenSearch
-* Implemented **citation-based QA system** to reduce hallucination
-* Designed secure cloud architecture using **IAM role-based authentication**
-* Developed interactive frontend using **Streamlit**
 
----
-
-## 👨‍💻 Author
+##  Author
 
 **Revathy Gopinath**
